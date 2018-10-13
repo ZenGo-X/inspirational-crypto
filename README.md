@@ -13,4 +13,6 @@ https://github.com/bitcoin-core/secp256k1 - Optimized C library for EC operation
 
 https://github.com/KULeuven-COSIC/SCALE-MAMBA - Repository for the SCALE-MAMBA MPC system 
 
-https://github.com/cryptobiu/libscapi - omprehensive Open Source Library for Secure Multiparty Computation
+https://github.com/cryptobiu/libscapi - Comprehensive Open Source Library for Secure Multiparty Computation
+
+https://github.com/dalek-cryptography/bulletproofs - A pure-Rust implementation of Bulletproofs using Ristretto.
