@@ -16,3 +16,5 @@ https://github.com/KULeuven-COSIC/SCALE-MAMBA - Repository for the SCALE-MAMBA M
 https://github.com/cryptobiu/libscapi - Comprehensive Open Source Library for Secure Multiparty Computation
 
 https://github.com/dalek-cryptography/bulletproofs - A pure-Rust implementation of Bulletproofs using Ristretto.
+
+https://github.com/tendermint/signatory - Multi-provider digital signature library for Rust
