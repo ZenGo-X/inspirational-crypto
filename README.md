@@ -18,3 +18,6 @@ https://github.com/cryptobiu/libscapi - Comprehensive Open Source Library for Se
 https://github.com/dalek-cryptography/bulletproofs - A pure-Rust implementation of Bulletproofs using Ristretto.
 
 https://github.com/tendermint/signatory - Multi-provider digital signature library for Rust
+
+https://github.com/w3f/schnorrkel - Schnorr VRFs and signatures on the Ristretto group
+
